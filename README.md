@@ -17,10 +17,3 @@ Develop a versatile Morse code decoding tool for educational and practical purpo
 Contributions:
 Contributions are welcome from enthusiasts and researchers interested in Morse code, signal processing, and communication systems. Whether it's improving decoding algorithms, optimizing data recovery techniques, or enhancing visualization features, every contribution adds value to the project.
 
-Get Involved:
-
-Fork the repository and submit pull requests for enhancements or bug fixes.
-Share your ideas and suggestions in the issue tracker.
-Spread the word and contribute to the discussion on the project's forum or social media channels.
-Join us on this journey of exploring Morse code's hidden intricacies and its relevance in the digital age!
-
